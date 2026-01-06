@@ -16,16 +16,5 @@
       "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "undo-init",
-    "started_at": 1767698687.582531,
-    "completed_at": 1767698690.414111,
-    "comments": [
-      "The init operation is not undone.",
-      "The private folder should not be deleted.",
-      "The contacts.txt should not be deleted."
-    ],
-    "status": "Incomplete"
   }
 ]
